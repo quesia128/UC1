@@ -10,3 +10,12 @@ o	Sistema de chat: O sistema deve permitir que o profissional da área de saúde
 o	o sistema deve sempre ao abrir o aplicativo mostrar uma frase positiva diferente a cada vez acessarmos. 
 o	Deve também poder ter a opção de relatar o sentimento do usuário no perfil com sigilo total. 
 o	Tambem deve possuir um calendário onde possa registrar o seu dia através de uma emoji definindo a sua emoção.  
+
+requisitos não funcionais: 
+- O relato do usuario deve ser enviado no maximo 2 segudnos
+- A capacidade de usuário acessando o aplicativo ao mesmo tempo será de 500 pessoas.
+- O perfil do usuario serão protegidos 
+- Para acessar os registros dos relatos sentimentais do usuario exige uma senha.
+- As telas de cadastro e registro devem ser simples e diretas, campos claros e botoes visiveis e faceis de identificar
+- O sistema pode ser acessado via smarphone, tablets e computadores, permitindo o usuario acessar da forma mais acessivel e conveniente para ele.
+- Em caso de falha, o sistema deve ser capaz de recuperar rapidamente, garantindo que nenhum dado ou rascunho do relato do usuario com trnastorno ou doença seja perdido.
